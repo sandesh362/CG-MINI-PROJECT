@@ -1,4 +1,4 @@
-# Chess Game in C ♟️
+# Chess Game in C++♟️
 
 Welcome to the **Chess Game** project, where logic meets visuals in the form of an elegant chessboard right on your screen! This is a minimalist yet fully functional chess game, coded in pure C and rendered using the Turbo C graphics library. Whether you’re a coding enthusiast or just love chess, this project is crafted for those who appreciate classic challenges presented in a digital form.
 
