@@ -1,13 +1,13 @@
 # Chess Game in C++♟️
 
-Welcome to the **Chess Game** project, where logic meets visuals in the form of an elegant chessboard right on your screen! This is a minimalist yet fully functional chess game, coded in pure C and rendered using the Turbo C graphics library. Whether you’re a coding enthusiast or just love chess, this project is crafted for those who appreciate classic challenges presented in a digital form.
+Welcome to the **Chess Game** project, where logic meets visuals in the form of an elegant chessboard right on your screen! This is a minimalist yet fully functional chess game, coded in pure C++ and rendered using the Turbo C graphics library. Whether you’re a coding enthusiast or just love chess, this project is crafted for those who appreciate classic challenges presented in a digital form.
 
 ## About This Project 🌟
-This project is not just a game, it’s a **fusion of programming ingenuity** and **timeless strategy**. Written entirely in C, it utilizes the Turbo C graphics library to bring an interactive chessboard to life. The game includes full chess rules, a seamless player-vs-player mode, and a clean, straightforward design that lets you focus on outsmarting your opponent.
+This project is not just a game, it’s a **fusion of programming ingenuity** and **timeless strategy**. Written entirely in C++, it utilizes the Turbo C graphics library to bring an interactive chessboard to life. The game includes full chess rules, a seamless player-vs-player mode, and a clean, straightforward design that lets you focus on outsmarting your opponent.
 
 Here’s what this project brings to the table:
 
-- **Coding Power:** An ideal blend of C programming mastery and algorithmic logic.
+- **Coding Power:** An ideal blend of C++ programming mastery and algorithmic logic.
 - **Graphical Brilliance:** Simple yet engaging 2D graphics built from scratch, utilizing Turbo C’s graphics capabilities.
 - **Strategy at Its Core:** Whether you're a beginner or a chess enthusiast, the game ensures a fun and intellectually stimulating experience.
 
